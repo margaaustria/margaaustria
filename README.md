@@ -2,8 +2,6 @@
 
 ## 👋 Hi there, Marga Austria!
 
-<br>
-
 <a href="https://yuna0x0.com">
   <img src="https://i.pinimg.com/736x/d4/40/0d/d4400dfdcdb33baaf9abca61114f5733.jpg" alt="Banner" width="50%">
 </a>
@@ -17,7 +15,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=marga-austria" alt="marga-austria" />
 </a>
 
-<br><br>
+<div><div>
 
 💫 **About Me**  
 I’m currently taking up a Bachelor of Science in Information Systems.
@@ -40,29 +38,12 @@ I’m currently taking up a Bachelor of Science in Information Systems.
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white" />
 <img src="https://img.shields.io/badge/Mantine-ffffff?style=flat-square&logo=Mantine&logoColor=339af0" />
 
-<div><div>
-
-### 📊 GitHub Stats
+<br><br>
+### 📊 **GitHub Stats**
 <img src="https://github-readme-stats.vercel.app/api?username=margaaustria&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false" />
 <img src="https://nirzak-streak-stats.vercel.app/?user=margaaustria&theme=highcontrast&hide_border=false" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=margaaustria&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
-<br>
 
 ### ✍️ Random Dev Quote
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-
-### 🔝 Top Contributed Repo
-
-<br>
-
-<img src="https://github-contributor-stats.vercel.app/api?username=margaaustria&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-
-<br><br>
-
-[![](https://visitcount.itsvg.in/api?id=margaaustria&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<br><br>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 </div>
