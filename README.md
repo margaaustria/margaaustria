@@ -1,6 +1,6 @@
 <div align="center">
 
-## 👋 Hi there, Marga Austria!
+## 👋 Hi there, Margaux Austria!
 
 <a href="https://yuna0x0.com">
   <img src="https://i.pinimg.com/736x/d4/40/0d/d4400dfdcdb33baaf9abca61114f5733.jpg" alt="Banner" width="50%">
@@ -11,9 +11,8 @@
 <img src="https://komarev.com/ghpvc/?username=marga-austria&label=Profile%20views&color=0e75b6&style=flat" alt="marga-austria" />
 
 <div><div>
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=marga-austria" alt="marga-austria" />
-</a>
+<img src="https://github-profile-trophy.vercel.app/?username=margaaustria" alt="margaaustria" />
+
 
 <div><div>
 
