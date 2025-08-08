@@ -6,43 +6,35 @@
   <img src="https://i.pinimg.com/736x/d4/40/0d/d4400dfdcdb33baaf9abca61114f5733.jpg" alt="Banner" width="50%">
 </a>
 
-<br><br>
+<br>
+  
+🌐 *How to reach me?*  
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/margarette.calumpiano.56) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/m_dy04) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:calumpianomargarette@gmail.com) 
+</div>
 
-<img src="https://komarev.com/ghpvc/?username=marga-austria&label=Profile%20views&color=0e75b6&style=flat" alt="marga-austria" />
+### 🌱 *What do I do and What have I done?*
+I am Margarette Austria Calumpiano, I am a Bachelor of Science in Information Systems student who is creative and eager to learn new technologies such as HTML, CSS, Laravel, and Python. Although I'm not highly skilled in coding yet, I understand the basics and continue to improve. I graduated from the ICT strand in Senior High School, where I learned how to:
 
-<div><div>
-<img src="https://github-profile-trophy.vercel.app/?username=margaaustria" alt="margaaustria" />
+- Gained hands-on experience in computer maintenance, hardware setup, and system configuration.
+- Provided technical support for printing, scanning, and other computer-related services.
+- Learned the basics of network setup and internet troubleshooting.
+- Provided support for presentation editing and BIOS installation.
+- Reformat
 
+### ⚡ *What I’m currently working on in college?*
+- I am currently studying Mantine, CSS and HTML.
+- Focused on clean design and user-friendly interfaces in layout planning.
+- Designed and developed dynamic layouts with reusable components in React. *(Unti lang)*
+- I also served as the Frontend Lead for our Blog App during my second year.
+- We finished Laravel and Python during my first and second year. I'm not deeply into coding, but I can read and understand code.
 
-<div><div>
+✨I’m really passionate about front-end development and want to pursue it further.✨
 
-💫 **About Me**  
-I’m currently taking up a Bachelor of Science in Information Systems.
+### 🏆 *GitHub Trophies*
+![](https://github-profile-trophy.vercel.app/?username=margaaustria&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+[![](https://visitcount.itsvg.in/api?id=margaaustria&icon=0&color=0)](https://visitcount.itsvg.in)
 
-🌐 **Socials**  
-<a href="https://www.facebook.com/margarette.calumpiano.56">
-  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" />
-</a>
-<a href="mailto:calumpianomargarette@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
-</a>
+<div align="center">
 
-💻 **Tech Stack**  
-<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white" />
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
-<img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white" />
-<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/Mantine-ffffff?style=flat-square&logo=Mantine&logoColor=339af0" />
-
-<br><br>
-### 📊 **GitHub Stats**
-<img src="https://github-readme-stats.vercel.app/api?username=margaaustria&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false" />
-<img src="https://nirzak-streak-stats.vercel.app/?user=margaaustria&theme=highcontrast&hide_border=false" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=margaaustria&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
-
-### ✍️ Random Dev Quote
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=margaaustria&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </div>
